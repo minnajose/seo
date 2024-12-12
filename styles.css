@@ -600,4 +600,7 @@ footer {
         padding: 15px;
         margin: 15px auto;
     }
+    .navbar {
+        position: relative;
+    }
   }
