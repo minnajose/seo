@@ -1,1 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://minnajose.github.io/seo/index.html</loc>
+        <lastmod>2024-12-12</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://minnajose.github.io/seo/shop.html</loc>
+        <lastmod>2024-12-12</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://minnajose.github.io/seo/secrets.html</loc>
+        <lastmod>2024-12-12</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://minnajose.github.io/seo/recipe.html</loc>
+        <lastmod>2024-12-12</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://minnajose.github.io/seo/about.html</loc>
+        <lastmod>2024-12-12</lastmod>
+        <priority>0.6</priority>
+    </url>
+</urlset>
 
