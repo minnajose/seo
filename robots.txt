@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /private/
+Sitemap: https://minnajose.github.io/seo/sitemap.xml
